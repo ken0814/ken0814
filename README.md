@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img src="我看你是完全不懂.gif">
+<div align="center">
+  <img src="我看你是完全不懂.gif">
+</div>
 <!--
 **ken0814/ken0814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
