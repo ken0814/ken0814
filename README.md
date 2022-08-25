@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi hello 你好 こんにちは 안녕하십니까 👋
 
 <div align="center">
   <img src="我看你是完全不懂.gif">
