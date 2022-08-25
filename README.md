@@ -1,10 +1,10 @@
-<h1 align="center>
-  Hi hello 你好 こんにちは 안녕하십니까 👋
-</h1>
+<h1 align="center">Hi hello 你好 こんにちは 안녕하십니까 👋</h1>
 
 <div align="center">
   <img src="我看你是完全不懂.gif">
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ken0814)](https://github.com/ken0814/github-readme-stats)
 <!--
 **ken0814/ken0814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
