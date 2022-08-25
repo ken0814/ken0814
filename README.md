@@ -3,9 +3,7 @@
 <div align="center">
   <img src="我看你是完全不懂.gif">
 </div>
-<div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ken0814&show_icons=true&theme=github_dark)](https://github.com/ken0814/github-readme-stats)
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ken0814&show_icons=true&theme=github_dark)](https://github.com/ken0814/github-readme-stats)
 <!--
 **ken0814/ken0814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
