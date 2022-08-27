@@ -6,11 +6,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ken0814&show_icons=true&theme=github_dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken0814&layout=compact">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken0814">
-</div>
 
 <!--
 **ken0814/ken0814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
