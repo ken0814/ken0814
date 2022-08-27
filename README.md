@@ -4,7 +4,7 @@
   <img src="我看你是完全不懂.gif" width="100%">
 </div>
 
-<div align="center">
+<div align="center"  style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=ken0814&show_icons=true&theme=github_dark" height="200">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken0814&layout=compact&theme=github_dark" height="200">
 </div>
