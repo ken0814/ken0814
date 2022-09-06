@@ -6,8 +6,8 @@
 
 <div align="center">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ken0814&show_icons=true&theme=github_dark" width="400" height="200">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken0814&layout=compact&theme=github_dark" width="400" height="200">
+    <img src="https://github-readme-stats.vercel.app/api?username=ken0814&show_icons=true&theme=github_dark" width="400" style="height: 300px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken0814&layout=compact&theme=github_dark" width="400" style="height: 300px">
   </div>
 </div>
 
