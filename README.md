@@ -1,7 +1,7 @@
 <h1 align="center">Hi hello 你好 こんにちは 안녕하십니까 👋</h1>
 
 <div align="center">
-  <img src="我看你是完全不懂.gif" width="100%">
+  <img src="杰哥.gif" width="100%">
 </div>
 
 <div align="center">
