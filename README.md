@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
-  <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ken0814&show_icons=true&theme=github_dark" style="width: 50%;height: 300px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken0814&layout=compact&theme=github_dark" style="width: 50%; height: 300px">
+  <div style="display: flex; justify-content: space-between; align-items: center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ken0814&show_icons=true&theme=github_dark" style="width: 40%;height: 300px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken0814&layout=compact&theme=github_dark" style="width: 40%; height: 300px">
   </div>
 </div>
 
